@@ -1150,11 +1150,9 @@ section,
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
-.portfolio-details .portfolio-details-slider img{
+.portfolio-details .portfolio-details-slider img {
   width: 100%;
 }
-
-
 
 .portfolio-details .swiper-wrapper {
   height: auto;
