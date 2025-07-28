@@ -525,7 +525,7 @@ section,
   justify-content: center;
 }
 
-.hero img video{
+.hero img{
   position: absolute;
   inset: 0;
   display: block;
