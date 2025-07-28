@@ -535,6 +535,10 @@ section,
   z-index: 1;
 }
 
+video {
+  width: 87%;
+}
+
 .hero:before {
   content: "";
   background: color-mix(in srgb, var(--background-color), transparent 30%);
