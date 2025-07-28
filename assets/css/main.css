@@ -525,7 +525,7 @@ section,
   justify-content: center;
 }
 
-.hero img {
+.hero img video{
   position: absolute;
   inset: 0;
   display: block;
@@ -1150,7 +1150,7 @@ section,
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
-.portfolio-details .portfolio-details-slider img {
+.portfolio-details .portfolio-details-slider img video{
   width: 100%;
 }
 
